@@ -21,9 +21,12 @@ Java | Spring Boot | AWS | Docker | Linux | Maven
 
 ---
 
-- 📫 How to reach me: ...
-- LinkedIn: www.linkedin.com/in/srusti-agre 
-- Mail: srustiagreaiml@gmail.com
+## 📫 How to Reach Me
+
+- 📧 Email: srustiagreaiml@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/srusti-agre  
+- 💻 GitHub: https://github.com/Srusti-agre
+  
   
 ## 🔥 GitHub Streak
 
@@ -31,11 +34,7 @@ Java | Spring Boot | AWS | Docker | Linux | Maven
 
 ---
 
-## 📫 How to Reach Me
 
-- 📧 Email: srustiagreaiml@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/srusti-agre  
-- 💻 GitHub: https://github.com/Srusti-agre
 
 
 
