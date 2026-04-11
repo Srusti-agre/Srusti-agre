@@ -21,6 +21,11 @@ Java | Spring Boot | AWS | Docker | Linux | Maven
 
 ---
 
+## 🛠️ Skills and Tools
+
+![Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,maven,linux,bash,mysql,mongodb,python,django,prometheus)
+
+
 ## 📫 How to Reach Me
 
 - 📧 Email: srustiagreaiml@gmail.com  
