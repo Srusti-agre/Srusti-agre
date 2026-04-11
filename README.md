@@ -29,6 +29,19 @@ Java | Spring Boot | AWS | Docker | Linux | Maven
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,linux,bash,aws,python,docker,maven,prometheus,django,mysql,mongodb)
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Srusti-agre&show_icons=true&theme=radical)
+
+## 💻 Top Languages
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srusti-agre&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
+![Streak](https://streak-stats.demolab.com/?user=Srusti-agre&theme=radical)
+
+
 
 <!--
 **Srusti-agre/Srusti-agre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
