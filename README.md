@@ -25,36 +25,9 @@ Java | Spring Boot | AWS | Docker | Linux | Maven
 - LinkedIn: www.linkedin.com/in/srusti-agre 
 - Mail: srustiagreaiml@gmail.com
   
-## 📈 GitHub Statistics
-
-![Profile Views](https://komarev.com/ghpvc/?username=Srusti-agre&color=blue&style=flat)
-
-![Followers](https://img.shields.io/github/followers/Srusti-agre?label=Followers&style=flat)
-![Stars](https://img.shields.io/github/stars/Srusti-agre?affiliations=OWNER%2CCOLLABORATOR&style=flat)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Srusti-agre&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![Streak](https://streak-stats.demolab.com/?user=Srusti-agre&theme=tokyonight)
-
----
-
-## 💻 Top Languages Used
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srusti-agre&layout=compact&theme=tokyonight)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Srusti-agre&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
