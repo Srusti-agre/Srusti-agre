@@ -1,4 +1,30 @@
 ## Hi there 👋
+# 👋 Hi, I'm Srusti Agre
+
+## 💻 Backend Developer
+Java | Spring Boot | AWS | Docker | Linux
+
+---
+
+## 🚀 About Me
+- Backend Developer passionate about scalable systems
+- Experience in Spring Boot & Microservices
+- Interested in Cloud & DevOps
+
+---
+
+## 🛠 Skills
+- Java, Python  
+- Spring Boot, Hibernate  
+- MySQL, PostgreSQL  
+- AWS, Docker  
+- Git, Linux  
+
+---
+
+- 📫 How to reach me: ...
+- LinkedIn: www.linkedin.com/in/srusti-agre 
+- Mail: srustiagreaiml@gmail.com
 
 <!--
 **Srusti-agre/Srusti-agre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
