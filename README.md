@@ -27,9 +27,8 @@ Java | Spring Boot | AWS | Docker | Linux | Maven
   
 ## 🛠️ Skills and Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=java,spring,linux,bash,aws,python,docker,maven,prometheus,django,mysql,mongodb)
+
 
 <!--
 **Srusti-agre/Srusti-agre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
