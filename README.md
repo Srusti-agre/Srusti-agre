@@ -16,7 +16,7 @@ Java | Spring Boot | AWS | Docker | Linux | Maven
 - Java, Python  
 - Spring Boot, Hibernate  
 - MySQL, PostgreSQL  
-- AWS, Docker, Maven  
+- AWS, Docker, Maven, Jenkins  
 - Git, Linux, Shell Scripting  
 
 ---
