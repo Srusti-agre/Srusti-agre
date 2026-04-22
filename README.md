@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Srusti Agre
 
 ## 💻 Backend Developer
-Java | Spring Boot | AWS | Docker | Linux | Maven
+Java | Spring Boot | AWS | Docker | Linux | Maven | Jenkins
 
 ---
 
