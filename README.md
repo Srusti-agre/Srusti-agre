@@ -7,7 +7,7 @@ Java | Spring Boot | AWS | Docker | Linux | Maven | Jenkins
 
 ## 🚀 About Me
 - Backend Developer passionate about scalable systems
-- Experience in Spring Boot & Microservices
+- Experience in Spring & Microservices
 - Interested in Cloud & DevOps
 
 ---
